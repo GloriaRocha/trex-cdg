@@ -1,1 +1,1 @@
-# trex-cdg
+# c10G
